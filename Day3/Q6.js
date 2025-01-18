@@ -4,6 +4,7 @@ function createUserProfile(username, age = 25, country = "Unknown") {
 }
 console.log(createUserProfile('Aakash'))
 console.log(createUserProfile('Aditya',16,'India'))
+//This is the last code 
 
 
 
